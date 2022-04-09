@@ -1,11 +1,11 @@
-# Web/Mobile/Game Development Training
+# Web/Mobile Development Training
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-design.jpg"></img>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/ui-ux.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/web-mobile-game-development.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/web-mobile-development.jpg"></img>
 <br><br><br><br><br>
 
-Web/Mobile/Game Development Training for computer science students.
+Web/Mobile Development Training for computer science students.
 
 <br><br>
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
